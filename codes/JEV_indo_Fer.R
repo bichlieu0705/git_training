@@ -79,3 +79,7 @@ mcmc_trace(as.array(stan_FOI_fit))
 mcmc_acf(as.array(stan_FOI_fit))
 
 mcmc_pairs(as.array(stan_FOI_fit),regex_pars = "p_age")
+
+#### Lieu added here
+
+
